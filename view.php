@@ -1,1 +1,1 @@
-<?php echo "This is my view"; ?>
+Hello Web Developer. This is my github testing. 
