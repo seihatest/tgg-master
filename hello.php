@@ -1,2 +1,1 @@
-hello
-test 
+<php echo "This is my testing"; ?>
