@@ -1,3 +1,1 @@
-<php echo "This is my testing";
-hello worl
-?>
+<h1>Hello Madam</h1>
